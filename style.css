@@ -1,0 +1,77 @@
+.container {
+    background-color: white;
+    text-align: center;
+}
+.nav{
+    background-color: #F8F;
+    height: 215px;
+    font-family: Garamond, Arial, serif;
+    font-size: 20px;
+    width: 920px;
+    text-align: center;
+}
+.nav li a:link, .nav li a:visited {
+    text-decoration: none; width:145px;
+    display: block;
+    text-align: center;
+    border-style: solid;
+    padding: 10px 10px 10px 10px;
+}
+.nav ul{
+    list-style-type: none;
+}
+.nav li {
+    float: left;
+}
+.nav li a:hover, .nav li a:active {
+    background-color: lightgreen;
+}
+#header {color: yellow;
+font-size: 30px;
+text-align: center;
+}
+.side {
+    background-color: teal;
+    height: 620px;
+    font-size: 20px;
+    color: yellow;
+    float: left;
+    width: 160px;
+    text-align: left;
+    border-style: solid;
+    padding:25px 5px 5px 25px;
+}
+.copy { 
+    border-style: dotted;
+    font-size: large;
+    background-color: #F8F094;
+    text-align: left;
+}
+.main {
+    background-color: #F8F094;
+    color: blue;
+    height:935px;
+    width:920px;
+    text-align: center;
+    display: inline-block;
+    font-size: large;
+}
+.moneyback {
+    background-color: #F8F094;
+    color: blue;
+    height: 935px;
+    width: 920px;
+    text-align: center;
+    border-style: dashed;
+}
+.footer {
+    background-color: #F8F;
+    height: 65px;
+    clear: both;
+    font-family: Garamond, Arial, serif;
+    font: bold;
+    font-size: 25px;
+    text-align: center;
+    color: blue;
+    width: 920px;
+}
