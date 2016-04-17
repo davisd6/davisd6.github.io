@@ -4,10 +4,10 @@
 }
 .nav{
     background-color: #F8F;
-    height: 215px;
+    height: 225px;
     font-family: Garamond, Arial, serif;
     font-size: 20px;
-    width: 920px;
+    width: 935px;
     text-align: center;
 }
 .nav li a:link, .nav li a:visited {
@@ -24,7 +24,7 @@
     float: left;
 }
 .nav li a:hover, .nav li a:active {
-    background-color: lightgreen;
+    background-color: aqua;
 }
 #header {color: yellow;
 font-size: 30px;
@@ -32,29 +32,33 @@ text-align: center;
 }
 .side {
     background-color: teal;
-    height: 620px;
-    font-size: 20px;
+    height: 300px;
+    font-size: 21px;
     color: yellow;
     float: left;
     width: 160px;
     text-align: left;
     border-style: solid;
-    padding:25px 5px 5px 25px;
+    padding: 5px 5px 15px 55px;
 }
 .copy { 
     border-style: dotted;
-    font-size: large;
+    font-size: 23px;
     background-color: #F8F094;
-    text-align: left;
+    float: left;
+    padding: 25px 5px 45px 25px;
+    width: 330px;
+    margin: 4px 10px 
+    height: 300px;
 }
 .main {
     background-color: #F8F094;
     color: blue;
-    height:935px;
-    width:920px;
+    height:999px;
+    width:935px;
     text-align: center;
     display: inline-block;
-    font-size: large;
+    font-size: 25px;
 }
 .moneyback {
     background-color: #F8F094;
@@ -66,12 +70,12 @@ text-align: center;
 }
 .footer {
     background-color: #F8F;
-    height: 65px;
+    height: 95px;
     clear: both;
     font-family: Garamond, Arial, serif;
     font: bold;
     font-size: 25px;
     text-align: center;
     color: blue;
-    width: 920px;
+    width: 935px;
 }
