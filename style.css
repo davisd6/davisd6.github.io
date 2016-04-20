@@ -49,12 +49,11 @@ text-align: center;
     padding: 25px 5px 45px 25px;
     width: 330px;
     margin: 4px 10px 
-    height: 300px;
 }
 .main {
     background-color: #F8F094;
     color: blue;
-    height:999px;
+    height:975px;
     width:935px;
     text-align: center;
     display: inline-block;
@@ -70,7 +69,7 @@ text-align: center;
 }
 .footer {
     background-color: #F8F;
-    height: 95px;
+    height: 89px;
     clear: both;
     font-family: Garamond, Arial, serif;
     font: bold;
