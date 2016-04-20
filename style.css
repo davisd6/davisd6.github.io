@@ -9,6 +9,7 @@
     font-size: 20px;
     width: 935px;
     text-align: center;
+    /*create an id */
 }
 .nav li a:link, .nav li a:visited {
     text-decoration: none; width:145px;
@@ -17,9 +18,12 @@
     border-style: solid;
     padding: 10px 10px 10px 10px;
 }
+/* create setup for all divs */
 .nav ul{
     list-style-type: none;
 }
+
+/* add more borders */
 .nav li {
     float: left;
 }
@@ -30,6 +34,9 @@
 font-size: 30px;
 text-align: center;
 }
+
+
+/* add links and link the pages to home */
 .side {
     background-color: teal;
     height: 300px;
@@ -41,6 +48,8 @@ text-align: center;
     border-style: solid;
     padding: 5px 5px 15px 55px;
 }
+/* add more images */
+
 .copy { 
     border-style: dotted;
     font-size: 23px;
@@ -67,6 +76,7 @@ text-align: center;
     text-align: center;
     border-style: dashed;
 }
+/* consider reducing the number of colors to two or will the design be too plain??? */
 .footer {
     background-color: #F8F;
     height: 89px;
