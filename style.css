@@ -31,9 +31,9 @@
     float: left;
 }
 .nav li a:hover, .nav li a:active {
-    background-color: aqua;
+    background-color: #00ffff;
 }
-#header {color: yellow;
+#header {color: #FFFF00;
 font-size: 30px;
 text-align: center;
 }
@@ -45,7 +45,7 @@ text-align: center;
     background-color: #F8F;
     height: 337px;
     font-size: 21px;
-    color: yellow;
+    color: #FFFF00;
     float: left;
     width: 190px;
     border-style: solid;
@@ -64,7 +64,7 @@ text-align: center;
 }
 .main {
     background-color: #F8F094;
-    color: blue;
+    color: #1d41b7;
     height:1040px;
     width:935px;
     text-align: center;
@@ -74,7 +74,7 @@ text-align: center;
 /* another idea to consider
 .moneyback {
     background-color: #F8F094;
-    color: blue;
+    color: #1d41b7;
     height: 935px;
     width: 920px;
     text-align: center;
@@ -90,6 +90,6 @@ text-align: center;
     font: bold;
     font-size: 25px;
     text-align: center;
-    color: blue;
+    color: #FF00FF;
     width: 935px;
 }
